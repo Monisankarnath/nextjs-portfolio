@@ -1,0 +1,35 @@
+@font-face {
+  font-family: Oswald-Bold;
+  src: url("../src/assets/fonts/Oswald/Oswald-Bold.ttf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: Oswald-Medium;
+  src: url("../src/assets/fonts/Oswald/Oswald-Medium.ttf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: Oswald-Regular;
+  src: url("../src/assets/fonts/Oswald/Oswald-Regular.ttf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: Dahlia-Regular;
+  src: url("../src/assets/fonts/Dahlia/dahlia-regular.woff") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: Dahlia-Bold;
+  src: url("../src/assets/fonts/Dahlia/dahlia-bold.woff") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
